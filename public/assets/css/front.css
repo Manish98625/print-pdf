@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+
+body {
+    font-size: 18px; /* Set the font size for the body */
+    margin: 0; /* Remove default body margin */
+    padding: 0; /* Remove default body padding */
+}
+
+.bg_img {
+    height: 500px;
+    background-image: url("../../image.png");
+    
+}
+.card_name {
+    position: absolute;
+    top: 100px;
+}
